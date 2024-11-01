@@ -12,7 +12,7 @@ See [output/](output) directory.
 
 ## Output
 
-### lanczos3 (reference)
+### lanczos3 (for reference)
 
 #### reduceh
 
@@ -24,6 +24,10 @@ See [output/](output) directory.
 
 ### mks2013
 
+### Reference
+
+![mks-2013-graph.png](https://johncostella.com/magic/mks-2013-graph.png)
+
 #### reduceh
 
 ![pd_vips_mks2013-out.png](output/pd_vips_mks2013-out.png)
@@ -33,6 +37,10 @@ See [output/](output) directory.
 ![pdr_vips_mks2013-out.png](output/pdr_vips_mks2013-out.png)
 
 ### mks2021
+
+### Reference
+
+![mks-2021-graph.png](https://johncostella.com/magic/mks-2021-graph.png)
 
 #### reduceh
 
